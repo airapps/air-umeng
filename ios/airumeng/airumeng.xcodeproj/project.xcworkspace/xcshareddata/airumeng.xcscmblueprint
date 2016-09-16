@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0A01FC5D34EE370AE2D6BDD66E726149D9342B5B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0A01FC5D34EE370AE2D6BDD66E726149D9342B5B" : 0,
+    "72B6161F6E66100B2459BC6269C0E20967E04725" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AE2FC744-CB9A-43DB-B7C7-DCE81168A02A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0A01FC5D34EE370AE2D6BDD66E726149D9342B5B" : "air-umeng\/",
+    "72B6161F6E66100B2459BC6269C0E20967E04725" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "airumeng",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/airumeng\/airumeng.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:airapps\/air-umeng.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A01FC5D34EE370AE2D6BDD66E726149D9342B5B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:airapps\/airapps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72B6161F6E66100B2459BC6269C0E20967E04725"
+    }
+  ]
+}
