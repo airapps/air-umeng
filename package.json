@@ -1,5 +1,5 @@
 {
-  "name": "react-native-mobclick",
+  "name": "air-umeng",
   "version": "1.0.0",
   "description": "A React Native Umeng Bridge ",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airapps/react-native-umeng.git"
+    "url": "git+https://github.com/airapps/air-umeng.git"
   },
   "keywords": [
     "React",
@@ -18,7 +18,7 @@
   "author": "buhe",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/airapps/react-native-umeng/issues"
+    "url": "https://github.com/airapps/air-umeng/issues"
   },
-  "homepage": "https://github.com/airapps/react-native-umeng#readme"
+  "homepage": "https://github.com/airapps/air-umeng#readme"
 }
